@@ -2,7 +2,7 @@
 Collaborative Classroom Norms for CS2 2019
 
 ## Norms
-I **learn** best when: I have time to process
+I **learn** best when: 
 
 So I want a classroom that is:
 
