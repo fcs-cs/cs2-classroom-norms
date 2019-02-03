@@ -20,4 +20,4 @@ I expect my teacher to:
 
 I expect my classmates to:
 
-I expect myself to:
+I expect myself to: be attentive
