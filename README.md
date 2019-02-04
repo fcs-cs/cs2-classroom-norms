@@ -12,7 +12,9 @@ Collaborative Classroom Norms for CS2 2019
 - In order to acheive this, I propose the following classroom norm: 
 
 ## Expectations
+
 (Please add only one for each expectation)
 - I expect my teacher to:
 - I expect my classmates to:
 - I expect myself to:
+
