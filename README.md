@@ -5,11 +5,11 @@ Collaborative Classroom Norms for CS2 2019
 
 - I **learn** best when: 
 - So I want a classroom that is: Outta sight.
-- In order to acheive this, I propose the following classroom norm: 
+- In order to achieve this, I propose the following classroom norm: 
 
 - I **contribute** best when: 
 - So I want a classroom that: 
-- In order to acheive this, I propose the following classroom norm: 
+- In order to achieve this, I propose the following classroom norm: 
 
 ## Expectations
 
